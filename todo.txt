@@ -1,1 +1,1 @@
-1. Ik was bij 2.3.3 'A users has_many microposts'
+1. Ik was bij 2.3.4 'Inheritance hierarchies'
