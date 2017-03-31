@@ -1,0 +1,4 @@
+In order to scaffold resources:
+
+1. ` rails generate scaffold Some_resources attribute:type attirbute:type etc...`
+2. ` raild db:migrate
